@@ -14,7 +14,7 @@ ${email_google}         uatfw.jiraporn02@gmail.com
 ${password}             Abc123456
 ${password_gmail}       Abc1234!
 ${wrongpassword}        fw1234test
-${phonenumber}          0932833293
+${phonenumber}          0820471758
 
 *** Test Cases ***
 TC01 Sign-up Success filling info
